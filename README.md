@@ -29,6 +29,7 @@ customer-churn-ml/
 ├── README.md
 ├── requirements.txt
 └── Customer_churn.ipynb
+├── .gitignore
 ```
 
 ---
