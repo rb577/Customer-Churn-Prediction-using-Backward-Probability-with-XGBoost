@@ -1,0 +1,24 @@
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+env/
+venv/
+.venv/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
