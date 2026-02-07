@@ -12,6 +12,15 @@ Backward probability helps identify features that repeatedly contribute to churn
 
 ---
 
+### Dataset
+This project uses the **Telco Customer Churn dataset** provided by IBM.  
+The dataset is loaded directly from the following link:
+
+[Telco Customer Churn dataset (IBM)](https://raw.githubusercontent.com/blastchar/telco-churn/master/WA_Fn-UseC_-Telco-Customer-Churn.csv)
+
+No local dataset file is provided
+
+
 ## 📂 Repository Structure
 
 ```
