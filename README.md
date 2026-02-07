@@ -38,7 +38,7 @@ customer-churn-ml/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-ml.git
+git clone https://github.com/rb577/customer-churn-ml.git
 cd customer-churn-ml
 ```
 
