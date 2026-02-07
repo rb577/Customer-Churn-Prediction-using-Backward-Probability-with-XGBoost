@@ -96,6 +96,13 @@ Execute the notebook cells sequentially:
 
 ---
 
+📚 References
+Telco Customer Churn dataset (IBM Sample Data)
+
+Chen & Guestrin (2016). XGBoost: A Scalable Tree Boosting System.  
+EOF
+
+
 ## 📜 License
 
 This project is intended for **educational and portfolio purposes**.
